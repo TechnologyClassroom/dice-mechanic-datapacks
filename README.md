@@ -4,7 +4,7 @@ This folder will contain data sets for making informed decisions regarding rule
 optimization.
 
 Each data pack includes:
-* Each csv file is a simulation of an entire game.  csv files are named with a
+* Individual csv files are a simulation of an entire game.  csv files are named with a
 timestamp of when they were created.
 * Plotted graph in png file.
 * dicemechanicsim.py pyhon script with the same settings as the data
