@@ -1,7 +1,10 @@
 # Data packs
 
 This folder will contain data sets for making informed decisions regarding rule
-optimization.
+optimization for
+[Midnight Riders](https://github.com/GhostCityGames/Midnight-Riders).
+Custom datapacks can be created with
+[dice-mechanic-sim](https://github.com/TechnologyClassroom/dice-mechanic-sim).
 
 Each data pack includes:
 * Individual csv files are a simulation of an entire game.  csv files are named with a
