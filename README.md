@@ -1,4 +1,4 @@
-# Data packs
+# dice-mechanic-datapacks
 
 This folder will contain data sets for making informed decisions regarding rule
 optimization for
@@ -9,11 +9,11 @@ Custom datapacks can be created with
 This is an example of a plot from a csv:
 ![Screenshot](https://github.com/TechnologyClassroom/dice-mechanic-datapacks/blob/master/20171030125109.csv.png?raw=true "Plot of 20171030125109.csv")
 
-Each data pack includes:
+Each datapack includes:
 * Individual csv files are a simulation of an entire game.  csv files are named with a
 timestamp of when they were created.
 * Plotted graph in png file.
-* dicemechanicsim.py pyhon script with the same settings as the data
+* dicemechanicsim.py pyhon script with the same settings as the data.
 
 What is a CSV file?  CSV stands for comma separated values.  It is a very simple
 spreadsheet with each row being a new line and each column separated by commas.
@@ -30,7 +30,7 @@ M1 is the Madness score for Player 1.
 
 R3 is the Reputation score for Player 3.
 
-## How to analyze data generated in data packs
+## How to analyze data generated in datapacks
 
 Download and extract a data pack for example data.
 
@@ -43,16 +43,18 @@ matplotlib, plotly, networkx, or igraph.
 * Data analysis software and programming languages can be used to parse the
 data.
 
-Goals for the data can be found in the [goals.md file](https://github.com/TechnologyClassroom/dice-mechanic-sim/blob/master/docs/goals.md).
+Goals for the data can be found in the
+[goals.md file](https://github.com/TechnologyClassroom/dice-mechanic-sim/blob/master/docs/goals.md).
 
 ## Observations and Findings
 
-Observations and findings are recorded in the [analysis-observations](https://github.com/TechnologyClassroom/dice-mechanic-sim/blob/master/docs/analysis-observations.md).
+Observations and findings are recorded in the
+[analysis-observations](https://github.com/TechnologyClassroom/dice-mechanic-sim/blob/master/docs/analysis-observations.md).
 
 If you have any observations, you can submit them as a pull request or submit a
 [new issue on DMS](https://github.com/TechnologyClassroom/dice-mechanic-sim/issues/new).
 
 ## Rebuilding datapacks
 
-Datapacks that are built with early iterations or python 2 can be graphed
-using the rebuilddatapack.sh and plotcsv.py files.
+Datapacks that are built with early iterations of DMS can be graphed using
+the rebuilddatapack.sh and plotcsv.py files.
