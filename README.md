@@ -6,6 +6,9 @@ optimization for
 Custom datapacks can be created with
 [dice-mechanic-sim](https://github.com/TechnologyClassroom/dice-mechanic-sim).
 
+This is an example of a plot from a csv:
+![Screenshot](https://github.com/TechnologyClassroom/dice-mechanic-datapacks/blob/master/20171030125109.csv.png?raw=true "Plot of 20171030125109.csv")
+
 Each data pack includes:
 * Individual csv files are a simulation of an entire game.  csv files are named with a
 timestamp of when they were created.
@@ -16,8 +19,10 @@ What is a CSV file?  CSV stands for comma separated values.  It is a very simple
 spreadsheet with each row being a new line and each column separated by commas.
 [This is an example of one csv file](https://raw.githubusercontent.com/TechnologyClassroom/dice-mechanic-sim/master/data/20171030125109.csv).
 
-This is an example of a plot from a csv:
-![Screenshot](https://github.com/TechnologyClassroom/dice-mechanic-sim/blob/master/data/20171030125109.csv.png?raw=true "Plot of 20171030125109.csv")
+## Understanding the key
+
+This repository assumes you are familiar with the rules for
+[Midnight Riders](https://github.com/GhostCityGames/Midnight-Riders).
 
 R1 is the Reputation score for Player 1.
 
