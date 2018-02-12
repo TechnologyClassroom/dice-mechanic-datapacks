@@ -45,7 +45,7 @@ Goals for the data can be found in the [goals.md file](https://github.com/Techno
 Observations and findings are recorded in the [analysis-observations](https://github.com/TechnologyClassroom/dice-mechanic-sim/blob/master/docs/analysis-observations.md).
 
 If you have any observations, you can submit them as a pull request or submit a
-[new issue](https://github.com/TechnologyClassroom/dice-mechanic-sim/issues/new).
+[new issue on DMS](https://github.com/TechnologyClassroom/dice-mechanic-sim/issues/new).
 
 ## Rebuilding datapacks
 
