@@ -6,9 +6,6 @@
 
 # Michael McMahon
 
-#
-# Tested with python 3 and matplotlib 2.1.0
-
 # Plot CSV uses python 3 because of the dependencies.  Tested with v3.5.2.
 
 # Run with this command:
