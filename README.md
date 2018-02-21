@@ -1,15 +1,16 @@
 # dice-mechanic-datapacks
 
-This folder will contain data sets for making informed decisions regarding rule
+This folder contains data sets for making informed decisions regarding rule
 optimization for
 [Midnight Riders](https://github.com/GhostCityGames/Midnight-Riders).
-Custom datapacks can be created with
+Custom data packs can be created with
 [dice-mechanic-sim](https://github.com/TechnologyClassroom/dice-mechanic-sim).
 
 This is an example of a plot from a csv:
 ![Screenshot](https://github.com/TechnologyClassroom/dice-mechanic-datapacks/blob/master/20180219214011.csv.png?raw=true "Plot of 20180219214011.csv")
 
 Each data pack includes:
+
 * Individual csv files are a simulation of an entire game.  csv files are named
   with a timestamp of when they were created.
 * Plotted graph in png file.
@@ -30,11 +31,12 @@ This repository assumes you are familiar with the rules for
 
 3R is the Reputation score for Player 3.
 
-## How to analyze data generated in datapacks
+## How to analyze data generated in data packs
 
 Download and extract a data pack for example data.
 
 Ways to view and analyze the data:
+
 * A plain text editor can also view the files quickly.
 * The csv files can be opened with popular spreadsheet software such as
   LibreOffice Calc, Google Sheets, or Microsoft Excel.
@@ -54,7 +56,7 @@ Observations and findings are recorded in the
 If you have any observations, you can submit them as a pull request or submit a
 [new issue on DMS](https://github.com/TechnologyClassroom/dice-mechanic-sim/issues/new).
 
-## Rebuilding datapacks
+## Rebuilding data packs
 
-Datapacks that are built with early iterations of DMS can be graphed using the
+Data packs that are built with early iterations of DMS can be graphed using the
 rebuilddatapack.sh and plotcsv.py files.
