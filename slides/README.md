@@ -9,7 +9,7 @@ and all commands used during my talk.
 
 ![Screenshot](https://github.com/TechnologyClassroom/dice-mechanic-datapacks/blob/master/slides/agplcc.png?raw=true "intro slide")
 
-![Screenshot](https://github.com/TechnologyClassroom/dice-mechanic-datapacks/blob/master/slides/agplcc.png?raw=true "intro slide")
+![Screenshot](https://github.com/TechnologyClassroom/dice-mechanic-datapacks/blob/master/slides/dice.png?raw=true "intro slide")
 
 less [index.rst](https://raw.githubusercontent.com/GhostCityGames/Midnight-Riders/master/source/index.rst)
 
@@ -19,13 +19,15 @@ less [gamelogic.md](https://github.com/GhostCityGames/dice-mechanic-sim/blob/mas
 
 python3 [dicemechanicsim.py](https://github.com/GhostCityGames/dice-mechanic-sim/blob/master/dicemechanicsim.py) -v | less
 
-![Screenshot](https://github.com/GhostCityGames/dice-mechanic-datapacks/blob/master/slides/csv.png?raw=true "csv slide")
+![Screenshot](https://github.com/TechnologyClassroom/dice-mechanic-datapacks/blob/master/slides/csv.png?raw=true "csv slide")
 
-![Screenshot](https://github.com/GhostCityGames/dice-mechanic-datapacks/blob/master/slides/plot.png?raw=true "plot slide")
+![Screenshot](https://github.com/TechnologyClassroom/dice-mechanic-datapacks/blob/master/slides/plot.png?raw=true "plot slide")
 
 bash [builddatapack.sh](https://github.com/GhostCityGames/dice-mechanic-sim/blob/master/builddatapack.sh)
 
-![Screenshot](https://github.com/GhostCityGames/dice-mechanic-datapacks/blob/master/slides/newgang.png?raw=true "newgang slide")
+![Screenshot](https://github.com/GhostCityGames/TechnologyClassroom/blob/master/slides/newgang.png?raw=true "newgang slide")
 
 A special thank you goes out to Ned and the Boston Python User Group for
 [a great event](https://www.meetup.com/bostonpython/events/245476652/)!
+
+A special thank you to LibrePlanet 2018!
