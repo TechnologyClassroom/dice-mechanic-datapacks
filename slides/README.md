@@ -5,7 +5,11 @@ This folder contains photos used while talking about
 [dice-mechanic-sim](https://github.com/GhostCityGames/dice-mechanic-sim)
 and all commands used during my talk.
 
-![Screenshot](https://github.com/GhostCityGames/dice-mechanic-datapacks/blob/master/slides/intro.png?raw=true "intro slide")
+![Screenshot](https://github.com/TechnologyClassroom/dice-mechanic-datapacks/blob/master/slides/intro.png?raw=true "intro slide")
+
+![Screenshot](https://github.com/TechnologyClassroom/dice-mechanic-datapacks/blob/master/slides/agplcc.png?raw=true "intro slide")
+
+![Screenshot](https://github.com/TechnologyClassroom/dice-mechanic-datapacks/blob/master/slides/agplcc.png?raw=true "intro slide")
 
 less [index.rst](https://raw.githubusercontent.com/GhostCityGames/Midnight-Riders/master/source/index.rst)
 
