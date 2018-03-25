@@ -30,4 +30,4 @@ bash [builddatapack.sh](https://github.com/GhostCityGames/dice-mechanic-sim/blob
 A special thank you goes out to Ned and the Boston Python User Group for
 [a great event](https://www.meetup.com/bostonpython/events/245476652/)!
 
-A special thank you to LibrePlanet 2018!
+A special thank you to the FSF and LibrePlanet 2018 for [a great event](https://libreplanet.org/wiki/LibrePlanet:Conference/2018/Lightning_Talks)!
