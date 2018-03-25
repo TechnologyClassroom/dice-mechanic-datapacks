@@ -25,7 +25,7 @@ python3 [dicemechanicsim.py](https://github.com/GhostCityGames/dice-mechanic-sim
 
 bash [builddatapack.sh](https://github.com/GhostCityGames/dice-mechanic-sim/blob/master/builddatapack.sh)
 
-![Screenshot](https://github.com/GhostCityGames/TechnologyClassroom/blob/master/slides/newgang.png?raw=true "newgang slide")
+![Screenshot](https://github.com/TechnologyClassroom/dice-mechanic-datapacks/blob/master/slides/newgang.png?raw=true "plot slide")
 
 A special thank you goes out to Ned and the Boston Python User Group for
 [a great event](https://www.meetup.com/bostonpython/events/245476652/)!
